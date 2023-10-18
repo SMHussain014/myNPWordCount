@@ -23,5 +23,12 @@
   "bugs": {
     "url": "https://github.com/SMHussain014/myNPWordCount/issues"
   },
-  "homepage": "https://github.com/SMHussain014/myNPWordCount#readme"
+  "homepage": "https://github.com/SMHussain014/myNPWordCount#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.7",
+    "@types/prompt-sync": "^4.2.2"
+  }
 }
